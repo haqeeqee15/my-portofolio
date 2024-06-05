@@ -1,26 +1,17 @@
-[
-  {
-    "title": "Project A",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+[{
+    "title": "Quran Ringkas",
+    "imageSrc": "projects/project_qr.png",
+    "description": "The simplest Quran app. Available on the Google Play Store.",
+    "skills": ["Flutter", "Dart", "CMake", "Swift", "C++", "C"],
+    "demo": "https://play.google.com/store/apps/details?id=com.spektrumku&hl=id&gl=US&pli=1",
+    "source": "https://github.com/haqeeqee15/quranringkas"
   },
   {
-    "title": "Project B",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node", "Sass"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
-  },
-  {
-    "title": "Project C",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "Barangkulakan",
+    "imageSrc": "projects/project_bk.png",
+    "description": "Barangkulakan is an e-commerce website for snack distributors in Indonesia.",
+    "skills": ["Laravel", "Blade", "PHP", "Bootstrap"],
+    "demo": "http://dev-web.barangkulakan.com/",
+    "source": "https://github.com/xerioz24/"
   }
 ]

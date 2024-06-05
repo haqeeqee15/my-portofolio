@@ -1,28 +1,28 @@
 [
   {
-    "role": "Software Engineer",
-    "organisation": "Google",
-    "startDate": "Sept, 2022",
+    "role": "Junior Developer",
+    "organisation": "Spektrumku",
+    "startDate": "Jan, 2024",
     "endDate": "Present",
-    "experiences": ["Worked on Google Maps", "Reduced load times by 50%"],
+    "experiences": ["Build an App", "participating web project"],
     "imageSrc": "history/google.png"
   },
   {
-    "role": "UI Designer",
-    "organisation": "Mirosoft",
-    "startDate": "Aug, 2021",
-    "endDate": "Aug, 2022",
-    "experiences": ["Worked on Windows 11", "Designed the control panel"],
+    "role": "Admin Ware",
+    "organisation": "PT.Reza Cahaya Rizki",
+    "startDate": "Dec, 2021",
+    "endDate": "Dec, 2023",
+    "experiences": ["Stock opname", "leads management"],
     "imageSrc": "history/microsoft.png"
   },
   {
-    "role": "SWE Intern",
-    "organisation": "Netflix",
-    "startDate": "Apr, 2020",
-    "endDate": "Jun, 2020",
+    "role": "Operator",
+    "organisation": "PT.Hi-lex Indonesia",
+    "startDate": "Jan, 2019",
+    "endDate": "April, 2019",
     "experiences": [
-      "Worked on component library",
-      "Helped create UI components"
+      "internship",
+      "Packaging factory products"
     ],
     "imageSrc": "history/netflix.png"
   }
